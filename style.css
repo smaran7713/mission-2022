@@ -6,10 +6,11 @@ h1{
 }
 section{
     display: flex;
+    margin-top: 100px;
 }
 .half-with{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 10%;
 }
 .half-with img{
     width: 70%;
@@ -52,4 +53,14 @@ section{
 }
 .goals{
     background-color: lavender;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+}
+footer h2{
+    font-size: 30px;
 }
