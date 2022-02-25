@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.half-with{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-with img{
+    width: 70%;
+}
+.top-heading{
+    border-left: 6px solid tomato;
+}
+.top-heading h1{
+    margin-left: 10px;
+}
+.color-orange{
+    color: orange;
+}
+.link-btn{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.middle-heading{
+    text-align: center;
+}
+.mission-vission-goals{
+    width: 20%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5%;
+    border-radius: 25px;
+}
+.mission-vission-goals img{
+    width: 40%;
+}
+.mission{
+    background-color: lavenderblush;
+}
+.vission{
+    background-color: lightcyan;
+}
+.goals{
+    background-color: lavender;
+}
